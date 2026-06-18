@@ -1,6 +1,6 @@
 🌍 [English](README.md) | 🇪🇸 [Español](README-es.md) | 🇧🇷 [Português](README-pt.md)
 
-# Hi! I'm Silvio Carvalho Silva 👋
+# Hi! I'm Silvio Carvalho Silva 
 
 ### Tech Student | Focused on Data Engineering & AI
 
@@ -23,4 +23,4 @@ When I'm not at the computer writing SQL queries or developing AI agents, you'll
 - **Email:** silvio.carvalho.2209@gmail.com
 
 ---
-⭐️ *Profile in constant construction, just like my knowledge.*
+ *Profile in constant construction, just like my knowledge.*
