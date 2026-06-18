@@ -1,6 +1,6 @@
 🌍 [English](README.md) | 🇪🇸 [Español](README-es.md) | 🇧🇷 [Português](README-pt.md)
 
-# Olá! Eu sou o Silvio Carvalho Silva 👋
+# Olá! Eu sou o Silvio Carvalho Silva 
 
 ### Estudante de Tecnologia | Foco em Engenharia de Dados & IA
 
