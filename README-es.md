@@ -1,6 +1,6 @@
 🌍 [English](README.md) | 🇪🇸 [Español](README-es.md) | 🇧🇷 [Português](README-pt.md)
 
-# ¡Hola! Soy Silvio Carvalho Silva 👋
+# ¡Hola! Soy Silvio Carvalho Silva 
 
 ### Estudiante de Tecnología | Enfocado en Ingeniería de Datos e IA
 
@@ -23,4 +23,4 @@ Cuando no estoy en la computadora escribiendo consultas SQL o desarrollando agen
 - **Correo electrónico:** silvio.carvalho.2209@gmail.com
 
 ---
-⭐️ *Perfil en constante construcción, al igual que mis conocimientos.*
+ *Perfil en constante construcción, al igual que mis conocimientos.*
